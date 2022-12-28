@@ -1,5 +1,6 @@
-![BannerGIF](https://raw.githubusercontent.com/candibod/learning-notes/master/name-intro.gif)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/candibod/learning-notes/master/banner-intro.gif" alt="animated" />
+</p>
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :25.12.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
@@ -33,8 +34,10 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Charan Rayudu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=candibod&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
 ### 📫 &nbsp; How to reach me:
-
-
 <a href="https://www.linkedin.com/in/jeevan-reddy/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:reddyjeevan95@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
